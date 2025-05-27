@@ -1,0 +1,20 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Car Sharing/*
+!/Car Sharing/task/
+/Car Sharing/task/*
+!/Car Sharing/task/src
+
+# Project exclude paths
+/Topics/Thread management/Calculate the number of distinct characters/out/
+/Topics/Thread management/Calculate the number of distinct characters/out/production/classes/
